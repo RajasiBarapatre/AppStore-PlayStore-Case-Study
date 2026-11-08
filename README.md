@@ -3,11 +3,6 @@
 ## Overview
 This project presents a comprehensive comparative analysis of mobile applications listed on the Apple App Store and Google Play Store. The analysis aims to uncover platform-specific differences in app characteristics such as size, price, ratings, release timelines, and content categorization.
 
-## Team
-- Ketaki Paranjape
-- Rajasi Barapatre 
-- Sanika Chavan
-
 ## Objective
 To analyze and visualize cross-platform trends in mobile app metadata and evaluate:
 - App release patterns across platforms
